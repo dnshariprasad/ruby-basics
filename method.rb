@@ -17,6 +17,7 @@ puts "Second number please.."
 second_num=gets.to_i
 
 puts "-------------------------"
+
 puts "Which Operation.."
 puts "1 - Sum"
 puts "2 - Sub"
